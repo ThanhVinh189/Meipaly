@@ -1,0 +1,7 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.integrated.defaultProfile.windows": "zsh"
+
+    },
+    "liveServer.settings.port": 5502
+}
